@@ -14,11 +14,11 @@ I used a statistical approach in the creation of this script, some candlestick p
 
 This strategy aims to help traders make more accurate decisions while using candlesticks or bars for their trading and scientifically demonstrates that candlesticks or bars are valid statistical tools for financial analysis. 
 
-The initial capital set is €1,000 (You can change this from the "Properties" section of the user interface). 
+The initial capital set is €1,000 (You can change this from the "Properties" section of UI). 
 Each individual trade uses 100% of the set capital, in this case €1,000. 
-The default commission per trade is 0.03% (You can change this in the "Properties" section of the user interface). 
+The default commission per trade is 0.03% (You can change this in the "Properties" section of UI). 
 
-# User Interface 
+# User Interface (UI)
 1) General backtest time settings: Set the history period to be analysed 
 - StartDate: backtest start date 
 - StartMonth: backtest start month 
