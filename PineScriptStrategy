@@ -2,7 +2,7 @@
 // © AlexC
 
 //@version=5
-strategy("SimpleBarPattern_LongOnly", overlay=true, default_qty_type = strategy.percent_of_equity, default_qty_value = 100, currency = currency.EUR, initial_capital = 1000, commission_type = strategy.commission.percent, commission_value = 0.03)
+strategy("EasyStrategy-LongOnly", overlay=true, default_qty_type = strategy.percent_of_equity, default_qty_value = 100, currency = currency.EUR, initial_capital = 1000, commission_type = strategy.commission.percent, commission_value = 0.03)
 
 // Make input options that configure backtest date range
 startDate = input.int(title="Start Date",
