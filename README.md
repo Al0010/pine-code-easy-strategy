@@ -29,5 +29,14 @@ The default commission per trade is 0.03% (You can change this in the "Propertie
 3) Stop Loss 
 4) Take Profit 
 
+# Backtesting Tesla 
+- Backtesting Tesla 
+- Timeframe 4H
+- Take Profit: 4.60% 
+- Stop Loss: 3.35% 
+- Period: 1/1/2008 - 8/3/2022
+
+![Schermata 2022-03-10 alle 20 42 47](https://user-images.githubusercontent.com/100917872/157742267-56167751-5060-405c-b3a4-00f90b5a4783.png)
+
 # Disclaimer 
 Be careful, the past is not a guarantee of future performance, so remember to use the script as a pure analysis tool. The developer takes no responsibility for any use other than research and analysis and can in no way be held liable for damages resulting from wrong use of this code.
