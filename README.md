@@ -1,4 +1,4 @@
-# PineCodeEasyStrategy
+# Pine Code Easy Strategy Long Only 
 An example of strategy code in Pine Script.
 
 Pine Script V. 5.0 
@@ -6,7 +6,9 @@ Pine Script V. 5.0
 # How it works 
 The condition is constructed as follows. You go long with 100% of the established capital and 0.03% commission. 
 - First condition: minimum of the period under analysis falls below the opening level. 
-- Second condition: the low of the period is below the low of the previous period.The third condition is that the close of the period is above the opening level. - Final condition: wants the current close to be higher than the previous open and higher than the previous close. 
+- Second condition: the low of the period is below the low of the previous period.
+- The third condition is that the close of the period is above the opening level. 
+- Final condition: wants the current close to be higher than the previous open and higher than the previous close. 
 
 I used a statistical approach in the creation of this script, some candlestick patterns that reflect these conditions are: Bullish Engulfing , Bullish Hammer and Morning Star. 
 
